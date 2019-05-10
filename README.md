@@ -1,4 +1,9 @@
 # WeChat-Official-Platform
-微信公众号：XiaoXiongLaboratory
+欢迎关注微信公众号：XiaoXiongLaboratory
 
 *************
+
+![](qrcode.jpg)
+
+************
+
